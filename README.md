@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Abdujabbor from Uzbekistan, and a passionate mobile developer. I am working for 1 years as Flutter developer. I am passionate about learning new technologies and applying them to applications.
+I'm Abdujabbor from Uzbekistan, and a passionate mobile developer. I am working for 2 years as Flutter developer. I am passionate about learning new technologies and applying them to applications.
 
 
 ## 🌐 Socials:
